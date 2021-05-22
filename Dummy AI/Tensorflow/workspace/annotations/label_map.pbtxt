@@ -1,0 +1,8 @@
+item { 
+	name:'BlastCell'
+	id:1
+}
+item { 
+	name:'NonBlastCell'
+	id:2
+}
